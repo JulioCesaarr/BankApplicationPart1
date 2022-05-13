@@ -1,0 +1,14 @@
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\2-bytebank.exe
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\2-bytebank.deps.json
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\2-bytebank.runtimeconfig.json
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\2-bytebank.dll
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\ref\2-bytebank.dll
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\bin\Debug\net6.0\2-bytebank.pdb
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.AssemblyInfoInputs.cache
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.AssemblyInfo.cs
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.dll
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\ref\2-bytebank.dll
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.pdb
+C:\Users\win\source\repos\1-ContaCorrente\02-bytebank\obj\Debug\net6.0\2-bytebank.genruntimeconfig.cache
